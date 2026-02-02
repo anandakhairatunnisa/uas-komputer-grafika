@@ -2,9 +2,9 @@
 Program Kubus 3D dan Persegi 2D menggunakan Pygame dan PyOpenGL
 # UAS Komputer Grafika
 
-Nama  : Ananda Khiratunnisa
+Nama  : Ananda Khairatunnisa
 NIM   : 24146038
-Mata Kuliah : Komputer Grafika
+Mata Kuliah : Komputer Grafik
 
 ## Deskripsi Program
 Program ini merupakan tugas Ujian Akhir Semester mata kuliah Komputer Grafika
